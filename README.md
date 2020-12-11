@@ -1,4 +1,24 @@
-# nbdev template
+# calratio_timeing
+> Quick timing study. Trying all sorts of new things.
 
-Use this template to more easily create your nbdev project.
+
+This file will become your README and also the index of your documentation.
+
+## Install
+
+`pip install calratio_timeing`
+
+## How to use
+
+No code exampls for you!
+
+```
+1+1
+```
+
+
+
+
+    2
+
 
