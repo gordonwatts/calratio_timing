@@ -1,0 +1,4 @@
+jupyterlab
+nbdev
+flake8
+pytest
